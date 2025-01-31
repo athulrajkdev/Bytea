@@ -1,0 +1,16 @@
+# Lexer and Parser  
+ply  
+
+# Compiler and Code Execution  
+llvmlite  
+numba  
+
+# Command-line Interface  
+click  
+
+# Testing Framework  
+pytest  
+
+# Development Tools  
+black  
+mypy
