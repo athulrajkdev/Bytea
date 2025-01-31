@@ -1,0 +1,4 @@
+input a = 10
+input b = 20
+result = a + b
+print(result)
