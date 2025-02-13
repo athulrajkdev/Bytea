@@ -9,7 +9,7 @@ Bytea is a modern, lightweight programming language designed for simplicity and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/bytea.git
+   https://github.com/athulrajkdev/Bytea.git
    ```
 2. Install Bytea:
    ```bash
